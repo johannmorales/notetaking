@@ -31,3 +31,5 @@ The development order was
 - Readme & demo
 
 # Demo video
+
+https://drive.google.com/file/d/1W614R4FyjWF21xDmTTT4GwvQpEoFvehC/view?usp=sharing
